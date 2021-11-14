@@ -1,3 +1,4 @@
+package Java09;
 class math
 {
     public void power(int x,int n)
