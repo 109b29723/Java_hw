@@ -1,3 +1,4 @@
+package Java09;
 class Namecard
 {
     private String name;
