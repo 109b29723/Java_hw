@@ -1,4 +1,4 @@
-package Java08;
+package Java09;
 class CRectangle
 {
     int width;
