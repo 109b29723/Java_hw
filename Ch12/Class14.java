@@ -2,8 +2,8 @@ public class Class14
 {
    public static void main(String args[])
    {
-     String str="Habit is second nature.";
-     System.out.println("string="+str);
-     System.out.println("sub-string="+str.substring(16,22));
+     String s="Habit is second nature.";
+     String a = s.substring(16,22);
+     System.out.println(a);
    }
 }
